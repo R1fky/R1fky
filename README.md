@@ -1,145 +1,237 @@
+<!-- ============================================= -->
+<!--                HERO SECTION                   -->
+<!-- ============================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF0000&height=220&section=header&text=Rifky%20Yudha%20Pratama&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20•%20Web%20Developer%20•%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3D3D&center=true&vCenter=true&width=650&lines=Lulusan+Teknik+Informatika+(D4)+Polinbang;PHP+%7C+Laravel+%7C+Node.js+%7C+Express.js;Membangun+Sistem+Web+yang+Rapi+%26+Scalable;Explorer+Machine+Learning+%26+Data+Analyst" alt="Typing SVG" />
-
-<br>
-
-<a href="https://github.com/R1fky">
-  <img src="https://komarev.com/ghpvc/?username=R1fky&label=Profile%20Views&color=FF3D3D&style=for-the-badge" />
-</a>
-<img src="https://img.shields.io/badge/📍_Lhokseumawe,_Aceh-1a1a1a?style=for-the-badge&labelColor=FF3D3D" />
-<img src="https://img.shields.io/badge/🎓_IPK_3.42%2F4.00-1a1a1a?style=for-the-badge&labelColor=FF3D3D" />
-<img src="https://img.shields.io/badge/🏆_BNSP_Certified-1a1a1a?style=for-the-badge&labelColor=FF3D3D" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,50:1E3A8A,100:0F172A&text=Rifky%20Yudha%20Pratama&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Laravel%20|%20Node.js%20|%20Machine%20Learning&descAlignY=60"/>
 
 </div>
 
-<br>
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+# 👋 Hi, I'm Rifky Yudha Pratama
 
-## 🧑‍💻&nbsp; Tentang Saya
+### Backend Developer • Laravel • Node.js • REST API • Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Backend+Developer;REST+API+Engineer;Laravel+Developer;Node.js+Developer;Always+Learning+New+Technology"/>
+
+</div>
+
+---
+
+# 💫 About Me
 
 ```yaml
-nama:        Rifky Yudha Pratama
-pendidikan:  D4 Teknik Informatika — Politeknik Negeri Lhokseumawe (2021 - 2025)
-fokus:       Back-End Development, Web Development, Machine Learning
-pengalaman:  Magang HSSE Digitalization @ PT Pertamina Patra Niaga Lhokseumawe
-sertifikat:  Junior Web Developer BNSP (2025), Data Analyst Excel & SQL (2026)
-karakter:    Adaptif • Antusias Belajar • Berorientasi pada Hasil
+Name      : Rifky Yudha Pratama
+Location  : Aceh, Indonesia
+Education : D4 Informatics Engineering
+Role      : Backend Developer
+
+Focus:
+  - Backend Development
+  - REST API Development
+  - Laravel
+  - Node.js
+  - Machine Learning
+
+Currently Learning:
+  - Docker
+  - CI/CD
+  - Microservices
+  - Clean Architecture
+  - System Design
 ```
 
-<br>
+> I enjoy building backend systems that are clean, maintainable, and scalable while continuously exploring modern technologies to become a better software engineer.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-## 🛠️&nbsp; Tech Stack
+# 🚀 Tech Stack
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,python,cpp"/>
+
+</p>
+
+## Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,flask"/>
+
+</p>
+
+## Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+
+</p>
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+
+</p>
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
+
+</p>
+
+---
+
+# 💼 Experience
+
+## 🏢 PT Pertamina Patra Niaga
+
+**Backend Developer Intern**
+
+✔ Developed a real-time HSSE Monitoring System using Laravel.
+
+✔ Built multi-level verification workflows.
+
+✔ Designed UI/UX with Figma.
+
+✔ Implemented responsive interfaces using Bootstrap.
+
+✔ Developed dashboard reporting and monitoring features.
+
+✔ Supported operational digitalization for HSSE activities.
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Student Satisfaction Sentiment Analysis
+
+```
+Python
+Flask
+Express.js
+Prisma ORM
+MySQL
+Bootstrap
+```
+
+### Features
+
+- 🤖 IndoBERT Sentiment Analysis
+- 🌐 REST API
+- 📊 Dashboard Visualization
+- 🗄️ MySQL Database
+- ⚡ Express Backend
+
+🔗 https://github.com/R1fky/sentiment-bert
+
+---
+
+## 📅 Habit Tracker
+
+```
+Node.js
+Express.js
+JWT
+Prisma ORM
+MySQL
+Bootstrap
+```
+
+### Features
+
+- Authentication (JWT)
+
+- Habit CRUD
+
+- REST API
+
+- MVC Architecture
+
+🔗 https://github.com/R1fky/habit-tracker
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-**Languages & Frameworks**
-<br><br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=R1fky&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<br><br>
-
-**Database & Tools**
-<br><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1fky&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🚀&nbsp; Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sistem Analisis Sentimen Mahasiswa
-<i>Python · BERT · Flask · Express.js · Prisma ORM · MySQL</i>
-
-Sistem klasifikasi sentimen kritik & saran mahasiswa menggunakan model **BERT**, dengan REST API Flask yang terintegrasi ke aplikasi Express.js dan dashboard visualisasi berbasis EJS.
-
-**[🔗 Lihat Source Code →](https://github.com/R1fky/sentiment-bert.git)**
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ Daily Habit Tracker App
-<i>Node.js · Express.js · Prisma ORM · MySQL · JWT</i>
-
-RESTful API pelacak kebiasaan harian dengan autentikasi **JWT**, struktur back-end modular (routes, controllers, middleware), dan antarmuka EJS + Bootstrap.
-
-**[🔗 Lihat Source Code →](https://github.com/R1fky/habit-tracker.git)**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📈&nbsp; GitHub Statistics
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=R1fky&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3D3D&icon_color=FF3D3D&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1fky&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3D3D&text_color=c9d1d9" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R1fky&theme=tokyonight&hide_border=true&background=0D1117&ring=FF3D3D&fire=FF3D3D&currStreakLabel=FF3D3D" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R1fky&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF3D3D&line=FF3D3D&point=ffffff" width="97%" />
-
-<br><br>
-
-🏆 **Trophy Cabinet**
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=R1fky&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://streak-stats.demolab.com?user=R1fky&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+# 📊 Contribution Graph
 
 <div align="center">
 
-## 📫&nbsp; Let's Connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R1fky&theme=github-dark&hide_border=true"/>
+
+</div>
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:rifkyyudha08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/R1fky">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://wa.me/6282268837075">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/rifky-yudha-pratama-45a3872a3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<i>"Adaptif, antusias belajar, dan berorientasi pada hasil."</i>
+</p>
 
-<br><br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8E2DE2&height=100&section=footer" width="100%"/>
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=R1fky&style=for-the-badge&color=2563EB"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563EB,50:1E3A8A,100:0F172A"/>
