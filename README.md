@@ -1,136 +1,81 @@
-<!-- ============================================= -->
-<!--                HERO SECTION                   -->
-<!-- ============================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,50:1E3A8A,100:0F172A&text=Rifky%20Yudha%20Pratama&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Laravel%20|%20Node.js%20|%20Machine%20Learning&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,50:1E40AF,100:0F172A&text=Rifky%20Yudha%20Pratama&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Laravel%20|%20Node.js%20|%20Machine%20Learning&descAlignY=60"/>
 
-</div>
+# 👋 Hello, I'm Rifky Yudha Pratama
 
-<div align="center">
+### Backend Developer | REST API Engineer | Machine Learning Enthusiast
 
-# 👋 Hi, I'm Rifky Yudha Pratama
-
-### Backend Developer • Laravel • Node.js • REST API • Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Scalable+Web+Applications;Backend+Developer;REST+API+Engineer;Laravel+Developer;Node.js+Developer;Always+Learning+New+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Applications;Laravel+Developer;Node.js+Developer;REST+API+Engineer;Machine+Learning+Enthusiast;Always+Learning+New+Technology"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```yaml
-Name      : Rifky Yudha Pratama
-Location  : Aceh, Indonesia
-Education : D4 Informatics Engineering
-Role      : Backend Developer
+```text
+💻 Backend Developer
 
-Focus:
-  - Backend Development
-  - REST API Development
-  - Laravel
-  - Node.js
-  - Machine Learning
+🎓 D4 Informatics Engineering Graduate
 
-Currently Learning:
-  - Docker
-  - CI/CD
-  - Microservices
-  - Clean Architecture
-  - System Design
+📍 Aceh, Indonesia
+
+❤️ Passionate about
+
+• Backend Development
+• REST API
+• Laravel
+• Node.js
+• Machine Learning
+• Software Architecture
+
+🌱 Currently Learning
+
+• Docker
+• CI/CD
+• Clean Architecture
+• System Design
 ```
 
-> I enjoy building backend systems that are clean, maintainable, and scalable while continuously exploring modern technologies to become a better software engineer.
-
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Stack
 
-## Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,python,cpp"/>
-
-</p>
-
-## Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,flask"/>
-
-</p>
-
-## Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-</p>
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
-
-</p>
-
-## Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm"/>
-
-</p>
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=php,js,python,cpp" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,flask" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" /> |
 
 ---
 
 # 💼 Experience
 
-## 🏢 PT Pertamina Patra Niaga
+## Backend Developer Intern
 
-**Backend Developer Intern**
+**PT Pertamina Patra Niaga**
 
-✔ Developed a real-time HSSE Monitoring System using Laravel.
-
-✔ Built multi-level verification workflows.
-
-✔ Designed UI/UX with Figma.
-
-✔ Implemented responsive interfaces using Bootstrap.
-
-✔ Developed dashboard reporting and monitoring features.
-
-✔ Supported operational digitalization for HSSE activities.
+- 🚀 Developed Real-Time HSSE Monitoring System
+- ⚙️ Built Verification Workflow
+- 📊 Dashboard & Reporting
+- 🎨 Designed UI/UX using Figma
+- 💻 Laravel Backend Development
+- 📱 Responsive Bootstrap Interface
 
 ---
 
-# 🚀 Featured Projects
+# 📦 Featured Projects
 
 ## 🧠 Student Satisfaction Sentiment Analysis
 
-```
-Python
-Flask
-Express.js
-Prisma ORM
-MySQL
-Bootstrap
-```
+> Machine Learning based sentiment analysis using **IndoBERT**.
 
-### Features
+**Tech**
 
-- 🤖 IndoBERT Sentiment Analysis
-- 🌐 REST API
-- 📊 Dashboard Visualization
-- 🗄️ MySQL Database
-- ⚡ Express Backend
+`Python` `Flask` `Express.js` `Prisma ORM` `MySQL`
 
 🔗 https://github.com/R1fky/sentiment-bert
 
@@ -138,60 +83,69 @@ Bootstrap
 
 ## 📅 Habit Tracker
 
-```
-Node.js
-Express.js
-JWT
-Prisma ORM
-MySQL
-Bootstrap
-```
+RESTful Habit Tracker Application with Authentication.
 
-### Features
+**Tech**
 
-- Authentication (JWT)
+`Node.js` `Express.js` `JWT`
 
-- Habit CRUD
+`Prisma ORM`
 
-- REST API
-
-- MVC Architecture
+`MySQL`
 
 🔗 https://github.com/R1fky/habit-tracker
 
 ---
 
-# 📈 GitHub Statistics
+# 🏆 GitHub Trophy
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=R1fky&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=R1fky&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1fky&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=R1fky&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=R1fky&theme=github-dark&hide_border=true"/>
 
-</div>
+</p>
 
-# 📫 Connect With Me
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/R1fky/R1fky/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌱 Current Focus
+
+```text
+✔ Backend Development
+
+✔ REST API Design
+
+✔ Laravel
+
+✔ Node.js
+
+✔ Machine Learning
+
+✔ Software Architecture
+```
+
+---
+
+# 📫 Connect with Me
 
 <p align="center">
 
@@ -211,8 +165,7 @@ Bootstrap
 
 ---
 
-# 💡 Favorite Quote
-
+# 💬 Quote
 > **"First, solve the problem. Then, write the code."**  
 > — John Johnson
 
@@ -222,16 +175,8 @@ Bootstrap
 
 <img src="https://komarev.com/ghpvc/?username=R1fky&style=for-the-badge&color=2563EB"/>
 
-</div>
+### ⭐ Thank you for visiting my GitHub!
 
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2563EB,50:1E40AF,100:0F172A"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:2563EB,50:1E3A8A,100:0F172A"/>
